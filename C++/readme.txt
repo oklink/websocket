@@ -1,20 +1,21 @@
-OKCoin WebstocketÀı³Ì
+OKCoin Webstocketä¾‹ç¨‹
 
 
-±¾Àı³Ì²ÉÓÃ¿ªÔ´¿âwebsocketpp¿âÊµÏÖ,websocketpp¿âÒÀÀµboostºÍopensslÁ½¸ö¿ªÔ´¿â¡£
+æœ¬ä¾‹ç¨‹é‡‡ç”¨å¼€æºåº“websocketppåº“å®ç°,websocketppåº“ä¾èµ–boostå’Œopensslä¸¤ä¸ªå¼€æºåº“ã€‚
 
 
-BoostÔ´ÂëÏÂÔØ£º
+Boostæºç ä¸‹è½½ï¼š
 http://sourceforge.net/projects/boost/files/boost/1.59.0/
-Boost±àÒëÀı×Ó£º
+Boostç¼–è¯‘ä¾‹å­ï¼š
 http://blog.csdn.net/kangroger/article/details/39393769
 
 
 
-OpensslÔ´ÂëÏÂÔØ£º
+Opensslæºç ä¸‹è½½ï¼š
 http://www.openssl.org/source/openssl-1.0.0s.tar.gz
-Openssl±àÒëÀı×Ó£º
+Opensslç¼–è¯‘ä¾‹å­ï¼š
 http://blog.csdn.net/andrew57/article/details/17395133
 
-ÒÔÉÏÁ½¸ö¿â±àÒëÍê³Éºó£¬Éú³ÉlibÎÄ¼ş£¬ÒıÈëµ½±¾Àı³Ì½øĞĞ±àÒë¡£
-websocketpp¿â±¾Éí£¬±¾Ñ¹Ëõ°üÀïÒÑ¾­°üº¬Æä¿ªÔ´´úÂë£¬ÈçÓĞ´úÂë°æÓĞÉı¼¶£¬¸²¸ÇÎªĞÂ´úÂë¼´¿É¡£
+ä»¥ä¸Šä¸¤ä¸ªåº“ç¼–è¯‘å®Œæˆåï¼Œç”Ÿæˆlibæ–‡ä»¶ï¼Œå¼•å…¥åˆ°æœ¬ä¾‹ç¨‹è¿›è¡Œç¼–è¯‘ã€‚
+websocketppåº“æœ¬èº«ï¼Œæœ¬å‹ç¼©åŒ…é‡Œå·²ç»åŒ…å«å…¶å¼€æºä»£ç ï¼Œå¦‚æœ‰ä»£ç ç‰ˆæœ‰å‡çº§ï¼Œè¦†ç›–ä¸ºæ–°ä»£ç å³å¯ã€‚
+d
